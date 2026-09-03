@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Home"
+  short_description: "Tìm và chấm điểm nhà đáng quay review."
+  default_prompt: "Tìm các căn nhà đáng quay review theo khu vực và khoảng giá tôi cung cấp."
