@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-09-04,9552 Dewey Dr,Garden Grove,PW26088845,Active,1299000,,unverified,78,agent sites (justintye.com; destinyrealtygroup.com),Downstairs primary suite; pool/spa; solar; kitchen remodel; not page-verified (WebFetch blocked)
+2026-09-04,10072 Roselee Dr,Garden Grove,PW25195246,Active,1259000,,unverified,76,Redfin,Large 8480 sqft lot; RV parking; listing/relist dates inconsistent across sources; not page-verified
+2026-09-04,15232 Xavier Circle,Westminster,OC26155523,Active (relisted from TR25013990),1479000,,unverified,74,dianerivord.com,Back-on-market; Vietnamese-speaking brokerage; kitchen condition descriptions conflict; not page-verified
+2026-09-04,15751 Cromwell Cir,Westminster,OC26188086,Active,1649000,,unverified,72,candiceuy.com; Seven Gables,New listing ~4 DOM; kitchen remodel; sunroom; solar; not page-verified
+2026-09-04,19532 Independence Ln,Huntington Beach,CRPW26172147,Active,1269000,,price conflict: also seen at 1290000,68,Zillow,Single-story remodel; price not reconciled across sources; not page-verified
+2026-09-04,6901 Brunswick,Huntington Beach,OC26171986,Active,1275000,,unverified,70,coldwellbankerhomes.com,Pool/spa backyard; kitchen update; living area below 1500 sqft preference; not page-verified
+2026-09-04,6072 Chinook Ave,Westminster,SW26166111,Active,1199000,,unverified,65,Redfin,Single-story; no HOA; 7228 sqft lot; vague upgrade description; not page-verified
+2026-09-04,8071 Taylor Dr,Huntington Beach,OC25177774,Active (index date stale - verify),1298000,,unverified,62,coldwellbankerhomes.com,Move-in ready kitchen island; MLS index shows 2025 received date - status needs re-verification; not page-verified
+2026-09-04,11322 Salinaz Ave,Garden Grove,OC26161725,Active,1369999,1399999,-30000,66,MLS lookup (no confirmed portal URL); agent Vanessa Bui House 2 Home Realtors,Existing separate ADU (714 sqft 2bd/2ba) on parcel; ADU permit status unverified; not page-verified
+2026-09-04,13611 Cypress St,Garden Grove,PW24135990,Active,1450000,,unverified,58,Redfin,Largest lot (~11325 sqft); listing mentions unverified "two additional units"; MLS number prefix suggests possible stale 2024 data - verify currency; 84 DOM; not page-verified
