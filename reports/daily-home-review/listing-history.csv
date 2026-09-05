@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-09-05,12532 Twinleaf,Garden Grove,unverified,Active (assumed),1490000,,,81,Gmail/RealScout,"7bd/4ba 2482sqft; Open House; 2 days on site; multigen angle; Top 3"
+2026-09-05,13911 Pacific,Westminster,unverified,Active (assumed),1398000,,,74,Gmail/RealScout,"4bd/3ba 1945sqft; Open House; 1 day on site; Top 3"
+2026-09-05,17527 Briarwood Street,Fountain Valley,unverified,Active (assumed),1579000,,,74,Gmail/RealScout,"4bd/3ba 2514sqft; Open House; 6 days on site; Top 3"
+2026-09-05,9413 Toucan Avenue,Fountain Valley,unverified,Active (assumed),1449000,,,72,Gmail/RealScout,"4bd/2ba 1522sqft; New Listing flag"
+2026-09-05,15371 Dogwood,Westminster,unverified,Active (assumed),1398000,,,68,Gmail/RealScout,"4bd/3ba 2281sqft; 6 days on site"
+2026-09-05,13631 University,Westminster,unverified,Active (assumed),1729000,,Price Drop,68,Gmail/RealScout,"4bd/4.5ba 2718sqft; Price Drop flag; 46 days on site"
+2026-09-05,9802 Kern Avenue,Garden Grove,unverified,Active (assumed),1250000,,,67,Gmail/RealScout,"4bd/3ba 1746sqft; 7 days on site"
+2026-09-05,6571 Pickett,Garden Grove,unverified,Active (assumed),1195000,,,67,Gmail/RealScout,"4bd/2ba 1393sqft; Open House; 1 day on site"
+2026-09-05,8661 Brookside Drive,Huntington Beach,unverified,Active (assumed),1499000,,,64,Gmail/RealScout,"4bd/2ba 1658sqft; 13 days on site"
+2026-09-05,13611 Cypress Street,Garden Grove,unverified,Active (assumed),1450000,,Status Change,64,Gmail/RealScout,"4bd/3ba 2171sqft; Status Change flag; 793 days on site - DOM anomaly flagged, verify"
