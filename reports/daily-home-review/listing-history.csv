@@ -1,1 +1,6 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-09-06,9440 Mcfadden,Westminster,unverified,Active (unverified - Price Drop flag),1349000,unverified,Price Drop,80,Gmail/RealScout,"6bd/4ba 2248sqft; 49 DOM; verify current status/price before outreach"
+2026-09-06,11322 Salinaz Avenue,Garden Grove,unverified,Active (unverified - Back On Market flag),1325000,unverified,Back On Market,78,Gmail/RealScout,"5bd/4ba 1988sqft; 37 DOM; verify why relisted"
+2026-09-06,20712 Spindrift Lane,Huntington Beach,unverified,Active (unverified - Status Change flag),1495000,unverified,Status Change,62,Gmail/RealScout,"4bd/2ba 1584sqft; 35 DOM; confirm still Active"
+2026-09-06,11824 Purslane Cir,Fountain Valley,unverified,Active (unverified),unverified (~1310000-1398000 est.),unverified,unverified,60,WebSearch,"4bd/3ba 2210sqft/7266sqft lot; price/status not confirmed"
+2026-09-06,11192 Biscayne Ct,Garden Grove,unverified,Active (unverified - stale source),unverified (~1250000 per stale source),unverified,unverified,50,WebSearch,"4bd/2ba 1400sqft/10658sqft lot; data 3 months stale, low confidence"
