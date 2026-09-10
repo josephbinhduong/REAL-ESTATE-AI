@@ -1,1 +1,9 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-09-10,5282 Trinette Ave,Garden Grove,unverified,Active (unverified),1199000,,,82,WebSearch,Existing ADU on lot per listing snippet; verify status/permit before contact
+2026-09-10,17215 Buttonwood St,Fountain Valley,unverified,Active (unverified),1500000,,,78,WebSearch,Pool + backyard ADU potential; verify status before contact
+2026-09-10,6751 Klondike Ave,Westminster,unverified,Active (unverified),1099000,,,75,WebSearch,Corner lot RV gate ADU potential; verify status before contact
+2026-09-10,13361 Redbird St,Garden Grove,unverified,Active (unverified),1085000,,,70,WebSearch,Fully remodeled per listing snippet; verify status before contact
+2026-09-10,10052 Larson Ave,Garden Grove,unverified,Active (unverified),1129999,,,68,WebSearch,First time offered in 28 years per snippet; verify status before contact
+2026-09-10,20712 Spindrift Ln,Huntington Beach,unverified,Status Change (RealScout) - disputed by web search,1559000,,,55,Gmail/RealScout,RealScout flags Status Change; independent web search suggests possibly off-market - verify before any outreach
+2026-09-10,16660 Spruce Circle,Fountain Valley,unverified,Unverified,1389000,,,55,WebSearch,Minimal detail gathered; backup lead only
+2026-09-10,14212 Enfield Cir,Westminster,unverified,Likely stale/off-market,1135000,,,45,WebSearch,Snippet implies listed since July 2025; high risk data is stale - confirm status first
