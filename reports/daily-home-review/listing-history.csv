@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-09-15,12451 Nutwood,Garden Grove,,New Listing,1120000,,,79,Gmail/RealScout,"Large lot per email description, unverified sqft"
+2026-09-15,8668 Brooke Avenue,Westminster,,New Listing,1399000,,,79,Gmail/RealScout,"Contemporary remodel, claimed ocean view per email description, unverified"
+2026-09-15,12532 Spinnaker Street,Garden Grove,,New Listing,1100000,,,73,Gmail/RealScout,"Near shopping center per email description"
+2026-09-15,13692 Eastbridge Street,Westminster,,Open House,1249000,,,72,Gmail/RealScout,"Open House flag, 1 day on site"
+2026-09-15,6332 Cherokee,Westminster,,Status Change,1399000,,,70,Gmail/RealScout,"5 bed, reason for Status Change unverified"
+2026-09-15,10181 Larson Avenue,Garden Grove,,Back On Market,1199900,,,68,Gmail/RealScout,"68 DOM, reason for return to market unverified"
+2026-09-15,20072 Marina,Huntington Beach,,Coming Soon,1500000,,,67,Gmail/RealScout,"5 bed, 4 days on site"
+2026-09-15,5772 Trinette,Garden Grove,,Active,1485000,,,66,Gmail/RealScout,"2582 sqft, 13 DOM, no status flag"
+2026-09-15,7122 Stahov,Westminster,,Active,1100000,,,63,Gmail/RealScout,"1 day on site, sqft below 1500 preferred threshold"
+2026-09-15,5382 Christal,Garden Grove,,Open House,1150000,,,59,Gmail/RealScout,"38 DOM, smallest sqft in list"
