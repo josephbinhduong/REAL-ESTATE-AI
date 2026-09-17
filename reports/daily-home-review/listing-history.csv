@@ -1,1 +1,10 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-09-17,18092 Westlake Cir,Huntington Beach,unverified,Coming Soon,1349000,,,70,WebSearch,Top 3; single-story remodeled with spa; status/price need re-verification before contact
+2026-09-17,12292 Bluebell,Garden Grove,unverified,Active - Open House,1199888,,,68,Gmail/RealScout,Top 3; 1 DOM; open house this week
+2026-09-17,6221 Choctaw,Westminster,unverified,Coming Soon,1179000,,,68,Gmail/RealScout,Top 3; corner lot with RV/boat parking
+2026-09-17,13422 Pepperdine,Westminster,unverified,Active - New Listing,1395000,,,62,Gmail/RealScout,6bd/3.5ba cul-de-sac; all bedrooms up
+2026-09-17,17573 Santa Cristobal St,Fountain Valley,unverified,Unverified - assume Active,1488000,,,61,WebSearch,Status not re-confirmed; verify before contact
+2026-09-17,5721 Trinette,Garden Grove,unverified,Active - New Listing,1409988,,,60,Gmail/RealScout,5bd/2ba
+2026-09-17,5081 Loyola Avenue,Westminster,unverified,Active - Open House,1325000,,,57,Gmail/RealScout,34 DOM; investigate reason for time on market
+2026-09-17,11212 Clarissa,Garden Grove,unverified,Active - Status Change,1099999,,,56,Gmail/RealScout,64 DOM; Status Change flag meaning unverified
+2026-09-17,13572 Yosemite,Westminster,unverified,Excluded - below price floor,999000,,,,Gmail/RealScout,Excluded: below $1M minimum
