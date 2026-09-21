@@ -1,1 +1,10 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-09-21,16842 Lucia Ln,Huntington Beach,OC26093229,Active,1599900,,N/A,85,WebSearch (Redfin),"Main 3/2 + permitted studio ADU 1/1; DOM unverified/conflicting"
+2026-09-21,9440 McFadden Ave,Westminster,OC26155140,Active,1399000,,N/A,85,WebSearch (Redfin),"Main 4/2 + detached ADU 2/2 built 2026; agent name unverified"
+2026-09-21,6862 Sowell Ave,Westminster,PW26145976,Coming Soon,1199000,,N/A,82,WebSearch (Zillow/Redfin),"Single-story remodel; agent Duy Nguyen, Superior Real Estate Group"
+2026-09-21,11872 Shetland Rd,Garden Grove,PW26195572,Active,1099000,,N/A,80,WebSearch (Redfin/Zillow),"Approved ADU+JADU plans unverified with city; ~14 DOM"
+2026-09-21,13431 Goldenwest St,Westminster,OC26086002 or OC26136308 (unverified),Active,1650000,,N/A,80,WebSearch (Zillow/Homes.com),"Price and bed count conflict between sources $1.65M vs $1.695M; 3 units on lot"
+2026-09-21,9412 Nautilus Dr,Huntington Beach,OC26184667,Active,1399995,,N/A,73,WebSearch (Trulia/Movoto),"Sea-Haven community single-story; ~28 DOM"
+2026-09-21,11356 Stonecress Ave,Fountain Valley,OC25161864 / PW24254975 / OC25130189 (conflicting),Active,1595000,,N/A,71,WebSearch (Zillow/RE/MAX),"Price conflict $1.575M-$1.65M; multiple MLS# suggests relist history"
+2026-09-21,12751 Owen St,Garden Grove,PW26082980 / PW26155386 (conflicting),Coming Soon,1398800,,N/A,62,WebSearch (Redfin),"Status and MLS# conflict between sources"
+2026-09-21,10342 La Despensa Ave,Fountain Valley,unverified,Active,1489000,,N/A,58,WebSearch (Redfin/Zillow),"Lot size, agent, DOM unverified"
