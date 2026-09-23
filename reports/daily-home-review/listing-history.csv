@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-09-23,"8161 Falmouth Dr",Huntington Beach,unverified,Active (unverified),1499000,,,68,WebSearch (Zillow snippet),New listing signal - listed Sep 23; status/DOM/lot unverified
+2026-09-23,"8631 Chapman Ave",Garden Grove,unverified,Active (unverified),1299000,,,66,WebSearch (Zillow snippet),6bd/4ba multigenerational angle; status/DOM/lot unverified
+2026-09-23,"16181 Quartz (Coral Wood Estates)",Westminster,unverified,Active (unverified),1300000,,,65,WebSearch (Redfin snippet),Exact street number not returned by search; status/DOM/lot unverified
+2026-09-23,"12246 Nadine Cir",Garden Grove,unverified,Active (unverified),1250000,,,63,WebSearch (Zillow snippet),Status/DOM/lot unverified
+2026-09-23,"9461 Carnation Dr",Westminster,unverified,Active (unverified),1298000,,,62,WebSearch (Redfin snippet),Remodel claim unverified; status/DOM/lot unverified
+2026-09-23,"12292 Bluebell Ave",Garden Grove,unverified,Active (unverified),1199888,,,61,WebSearch (Zillow snippet),Status/DOM/lot unverified
+2026-09-23,"10342 La Despensa Ave",Fountain Valley,unverified,Active (unverified),1489000,,,60,WebSearch (Redfin snippet),Status/DOM/lot/school assignment unverified
+2026-09-23,"6862 Sowell Ave",Westminster,unverified,Active (unverified),1199000,,,58,WebSearch (Zillow snippet),Status/DOM/lot unverified
+2026-09-23,"16842 Lucia Ln",Huntington Beach,unverified,Active (unverified),1499000,,,58,WebSearch (Redfin snippet),Status/DOM/lot unverified
+2026-09-23,"10382 Truckee River Ct",Fountain Valley,unverified,Active (unverified),1395000,,,54,WebSearch (Redfin snippet),Sqft slightly under 1500 target; status/DOM/lot unverified
