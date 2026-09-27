@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-09-27,6221 Choctaw Dr,Westminster,unverified,Active (unverified - last confirmed Status Change 2026-09-18),1179000,,none reported,78,Gmail/RealScout,Corner lot RV/boat parking; ADU potential unverified
+2026-09-27,12451 Nutwood St,Garden Grove,unverified,Active (unverified - last confirmed New Listing 2026-09-14),1120000,,none reported,76,Gmail/RealScout + WebSearch cross-match,Large lot value entry point
+2026-09-27,9735 Hibiscus Ave,Fountain Valley,unverified,Active (unverified - last confirmed Open House 2026-09-18),1379000,,none reported,74,Gmail/RealScout + WebSearch cross-match,Open house easy filming access
+2026-09-27,9340 Heather Ave,Fountain Valley,unverified,Active (unverified - last confirmed New Listing 2026-09-18),1600000,,none reported,73,Gmail/RealScout,Largest FV candidate in range
+2026-09-27,20072 Marina,Huntington Beach,unverified,Coming Soon (unverified - last confirmed 2026-09-14),1500000,,none reported,72,Gmail/RealScout,5 bed fits multigenerational buyers
+2026-09-27,11872 Shetland Rd,Garden Grove,unverified,Active (unverified - last confirmed Status Change 2026-09-18),1099000,,none reported,70,Gmail/RealScout + WebSearch cross-match,3 full baths rare at this price
+2026-09-27,9802 Kern Ave,Garden Grove,unverified,Active (unverified - last confirmed Price Drop 2026-09-15),1235000,,price drop flagged by source (amount not stated),69,Gmail/RealScout,Price-drop value story
+2026-09-27,13422 Pepperdine,Westminster,unverified,Active (unverified - last confirmed New Listing 2026-09-16),1395000,,none reported,66,Gmail/RealScout,6bed/3.5bath large family; all bedrooms up
+2026-09-27,8668 Brooke Ave,Westminster,unverified,unverified,1390000,,unknown,58,WebSearch only,Conflicting price/sqft versions found - low confidence
+2026-09-27,7112 Bluesails Dr,Huntington Beach,unverified,unverified,1499000,,unknown,52,WebSearch only,No sqft/status/DOM available - lowest confidence entry
