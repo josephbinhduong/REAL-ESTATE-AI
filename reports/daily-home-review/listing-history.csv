@@ -1,1 +1,9 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-09-28,13281 Mono Pl,Westminster,unverified,Active,1499000,,,89,WebSearch,"Detached 2024-built ADU w/ separate meters; price/DOM/HOA unverified"
+2026-09-28,11872 Shetland Rd,Garden Grove,PW26195572,Active,1099000,,,85,WebSearch,"Approved ADU+JADU plans; fresh paint/new water heater; lot size unverified"
+2026-09-28,12131 Sungrove St,Garden Grove,OC26129432,Active,1099999,,,64,WebSearch,"8820 sqft lot; ~30 DOM"
+2026-09-28,20031 Shorewood Cir,Huntington Beach,OC26182586,Active,1500000,,,64,WebSearch,"Price ambiguous - older MLS# OC26063682 shows different price; confirm before use"
+2026-09-28,8668 Brooke Ave,Westminster,unverified,Active,1275000,,,64,WebSearch,"Direct URL not independently confirmed; lower confidence"
+2026-09-28,9412 Nautilus Dr,Huntington Beach,OC26184667,Active,1399995,,,59,WebSearch,"Sea-Haven community; listed 8/24/26"
+2026-09-28,9808 Sturgeon Ave,Fountain Valley,OC26182496,Active,1449000,,,61,WebSearch,"Relisted 3x under different MLS#s (OC25222483/PW25261498/OC26182496); confirm still available"
+2026-09-28,10946 El Chino Ave,Fountain Valley,OC25046461,Active,1449000,,,57,WebSearch,"Price conflicting across sources ($1.399M-$1.599M); Green Valley HOA"
