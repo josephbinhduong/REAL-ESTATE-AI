@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-01,6602 Walt St,Westminster,CROC26084804 (unverified),Active,1200000,,none,89,WebSearch,"Back unit w/ own kitchen; ADU permit status unverified"
+2026-10-01,1209 Huntington St,Huntington Beach,unverified (multiple conflicting MLS#s seen),Active,1790000,,none,86,WebSearch,"Listing claims permitted detached ADU - unverified; DOM conflicting across sources"
+2026-10-01,7921 N Ronald Dr,Huntington Beach,unverified,Active,1552000,,none,82,WebSearch,"0.21 ac lot, ADU potential unverified"
+2026-10-01,10181 Larson Ave,Garden Grove,NP26145207 (unverified),Active,1200000,,none,80,WebSearch,"DOM unclear, possible relist since July 2026"
+2026-10-01,9357 Warbler Ave,Fountain Valley,unverified,Active,1399000,,none,80,WebSearch,"Single-story pool home, below 1500 sqft preference"
+2026-10-01,5282 Richmond Ave,Garden Grove,unverified,Active,1250000,,none,76,WebSearch,"Cross-referenced with 2026-09-15 RealScout alert"
+2026-10-01,12636 Saint Mark,Garden Grove,PW26159015 (unverified),Active,1200000,,none,74,WebSearch,"Newest listing in batch, DOM 2 days"
+2026-10-01,18907 San Felipe St,Fountain Valley,unverified,Active,1450000,,none,70,WebSearch,""
+2026-10-01,9700 Calendula Ave,Westminster,CROC26102391 (unverified),Active,1299888,,none,67,WebSearch,""
+2026-10-01,10413 Egret Ave,Fountain Valley,CRTR26064307 (unverified),Active,1620000,,none,63,WebSearch,"Price conflicts across sources ($1.62M vs $1.68M)"
