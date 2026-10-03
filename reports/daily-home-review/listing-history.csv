@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-03,6602 Walt St,Westminster,unverified,Active (open house),1200000,,none,68,WebSearch,Redfin snippet; open house signal
+2026-10-03,18907 San Felipe St,Fountain Valley,OC26139848,unverified,1450000,,none,64,WebSearch,eXp Realty snippet
+2026-10-03,10276 Falcon Ave,Fountain Valley,OC26118189,unverified,1589000,,none,60,WebSearch,eXp Realty snippet
+2026-10-03,9357 Warbler Ave,Fountain Valley,OC26139751,unverified,1399000,,none,55,WebSearch,Weichert snippet
+2026-10-03,16327 San Gabriel St,Fountain Valley,unverified,unverified,1399888,,none,54,WebSearch,status unconfirmed
+2026-10-03,5282 Richmond,Garden Grove,unverified,unverified,1250000,,none,53,WebSearch,Weichert snippet; built 1964
+2026-10-03,13530 Ethan,Garden Grove,unverified,unverified,1050000,,none,52,WebSearch,built 2011
+2026-10-03,8452 Hazelwood Cir,Westminster,unverified,Opendoor-owned,1350000,,none,48,WebSearch,confirm still listed; iBuyer inventory
+2026-10-03,9581 Landfall,Huntington Beach,unverified,unverified,1699999,,none,45,WebSearch,Weichert snippet; built 1968
+2026-10-03,417 8th St,Huntington Beach,unverified,unverified,1599000,,none,40,WebSearch,Coldwell Banker snippet; status unclear
