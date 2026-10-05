@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-05,9440 McFadden Ave,Westminster,OC26155140,Active,1399000,,,86,WebSearch,"New listing DOM1; main house + detached accessory unit, ADU legality unverified"
+2026-10-05,16327 San Gabriel St,Fountain Valley,PW26105115,Active,1299999,,,84,WebSearch,"New listing DOM0; RV/EV driveway, no HOA (unverified)"
+2026-10-05,10276 Falcon Ave,Fountain Valley,OC26118189,Active,1589000,,,82,WebSearch,"New listing DOM1; full remodel, single-story"
+2026-10-05,6772 Hazard Ave,Westminster,OC26139235,Active,1199900,,,80,WebSearch,"DOM~8; full remodel, confirmed no HOA, 4-source cross-check"
+2026-10-05,12091 Blackmer St,Garden Grove,OC26160949,Active,1339000,,,78,WebSearch,"DOM5; remodel, no HOA; PRICE CONFLICT vs older MLS# SW26065817 ($930k) - verify current price"
+2026-10-05,13282 Cherry St,Westminster,PW25087612,Active,1175000,,,77,WebSearch,"DOM unverified; remodel, no HOA, detached garage plumbing roughed in"
+2026-10-05,12636 Saint Mark St,Garden Grove,PW26159015,Active,1200000,,,76,WebSearch,"New listing DOM2; single-story confirmed"
+2026-10-05,9582 Hightide Dr,Huntington Beach,OC26136199,Active,1700000,,,74,WebSearch,"DOM5; single-story, renovated kitchen, pool, near ocean"
+2026-10-05,18828 Santa Mariana St,Fountain Valley,OC26032584,Active,1600000,,,71,WebSearch,"New listing DOM1; single-level, sqft varies by source 2162-2374"
+2026-10-05,17091 Friml Ln,Huntington Beach,OC26081147,Active,1350000,,,68,WebSearch,"DOM6; move-in ready, lowest HB price point in shortlist"
