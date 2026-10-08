@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-08,"16181 Quartz",Westminster,,Active,1300000,,none,76,WebSearch,"No HOA, owned solar+battery; unverified condition/DOM"
+2026-10-08,"5282 Richmond",Garden Grove,,Active,1250000,,none,75,WebSearch,"DOM 6; brokerage Superior Real Estate Group; lot ~6800sqft unverified"
+2026-10-08,"11632 Faye",Garden Grove,,Coming Soon,1150000,,none,72,WebSearch,"Coming Soon status; sqft/lot/year unverified"
+2026-10-08,"10651 La Bahia Ave",Fountain Valley,,Active,1200000,,none,70,WebSearch,"Trulia showed NEW 4hrs ago at search time; snapshot freshness unverified"
+2026-10-08,"19742 Oceanaire Circle",Huntington Beach,,Active,1449000,1499999,price drop (historical 5/16/2026),70,WebSearch,"BeachWalk community; remodeled; price drop is old, not from today"
+2026-10-08,"10321 Kamuela Dr",Huntington Beach,,Active,1774900,,none,69,WebSearch,"Near budget ceiling; completely renovated; DOM stale at snapshot (38 days)"
+2026-10-08,"9357 Warbler Avenue",Fountain Valley,,Active,1399000,,none,68,WebSearch,"Single-story + pool; status risk, open house data from July 2026"
+2026-10-08,"5562 Edinger Avenue",Huntington Beach,DW24225861,Active,1199000,,none,68,WebSearch,"Fully remodeled kitchen/baths/floors/windows/HVAC"
+2026-10-08,"11531 Desmond",Garden Grove,MB26171681,Active,1200000,,none,65,WebSearch,"2106 sqft large for 3bd/2ba"
+2026-10-08,"6072 Chinook Ave",Westminster,SW26166111,Active,1199000,,none,62,WebSearch,"1950 sqft value comparison"
