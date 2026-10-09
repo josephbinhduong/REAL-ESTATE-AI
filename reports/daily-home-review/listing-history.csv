@@ -1,1 +1,9 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-09,16327 San Gabriel,Fountain Valley,PW26105115,Active,1299999,,none,66,WebSearch,"Move-in ready angle; DOM/photos unverified, cached snippet only"
+2026-10-09,5282 Richmond Ave,Garden Grove,,Active,1250000,1200000,"possible increase, unverified","64",WebSearch,"Also appeared in RealScout alert 2026-09-15 at ~$1.2M; verify current price/status"
+2026-10-09,9357 Warbler Ave,Fountain Valley,,Active,1399000,,none,60,WebSearch,"Single-story pool home near HB border; listing data from 7/23/2026, likely stale"
+2026-10-09,6772 Hazard Ave,Westminster,OC26139235,Active,1199900,,none,55,WebSearch,"Renovated angle; listing data from June 2026, likely stale; beds/baths unverified"
+2026-10-09,12636 Saint Mark,Garden Grove,PW26159015,Active,1200000,,none,58,WebSearch,"Listed 7/27/2026 per source, likely stale; verify current status"
+2026-10-09,5781 Rogers Dr,Huntington Beach,,Active,1599000,,"price drop flagged, amount unverified",57,WebSearch,"Beds unverified; only price-confirmed HB candidate found today"
+2026-10-09,14871 Booney Ave,Westminster,PW26133124,Active,1275000,,none,52,WebSearch,"Listed June 2026 per source, likely stale; beds/baths/lot unverified"
+2026-10-09,9689 Guava Ave,Fountain Valley,PW26156235,Active,1299000,,none,50,WebSearch,"Weakest candidate; beds/baths and current DOM unverified"
