@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-10,13141 Monroe St,Garden Grove,unverified,Active (unverified),1599999,,N/A (first report),77,WebSearch (Redfin cached snippet),"7bd/5ba 3169sqft 0.23ac lot; multigen/ADU angle unverified; Gmail alerts inactive this run"
+2026-10-10,14052 Bexley St,Westminster,unverified,Active (unverified) - flagged new listing,1549000,,N/A (first report),72,WebSearch (Redfin cached snippet),"4bd/3ba 2228sqft; lot/HOA/year built/agent unverified"
+2026-10-10,12131 Sungrove St,Garden Grove,OC26129432,Active (unverified),1099999,,N/A (first report),70,WebSearch (Redfin cached snippet),"4bd/3ba 1847sqft; MLS# shown on snippet, most confirmed status of batch"
+2026-10-10,6262 Silverbridge St,Westminster,unverified,Active (unverified) - flagged new listing,1388000,,N/A (first report),70,WebSearch (Redfin cached snippet),"4bd/3ba 2269sqft; lot/HOA/year built/agent unverified"
+2026-10-10,9041 Shelley Dr,Garden Grove,unverified,Active (unverified),1195000,,N/A (first report),68,WebSearch (Redfin cached snippet),"4bd/3.5ba 1825sqft; multigen layout angle"
+2026-10-10,13692 Eastbridge St,Westminster,unverified,Active (unverified) - flagged new listing,1249000,,N/A (first report),66,WebSearch (Redfin cached snippet),"3bd/2.5ba 1777sqft; lot/HOA/year built/agent unverified"
+2026-10-10,13611 Cypress St,Garden Grove,unverified,Active (unverified),1450000,,N/A (first report),65,WebSearch (Redfin cached snippet),"4bd/3ba 2171sqft; condition/remodel status unverified"
+2026-10-10,6101 Cornell Dr,Huntington Beach,unverified,Active (unverified),1249000,,N/A (first report),60,WebSearch (Redfin cached snippet),"4bd/2.5ba; sqft/lot/HOA/year built/agent unverified"
+2026-10-10,9952 Effingham Rd,Huntington Beach,unverified,Active (unverified),1350000,,N/A (first report),58,WebSearch (Redfin cached snippet),"3bd/2ba; sqft/lot/HOA/year built/agent unverified"
+2026-10-10,17031 Ward St,Fountain Valley,unverified,Active (unverified - noisy snippet),1290000,,N/A (first report),55,WebSearch (Redfin cached snippet),"4bd/2.5ba 2019sqft; only FV candidate found, under ~3 target; weakest data quality of batch"
