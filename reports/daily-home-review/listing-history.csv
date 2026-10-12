@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-12,13502 Jackson St,Westminster,unverified,unverified (WebSearch),1298000,,none,64,WebSearch,"Gmail primary source empty (RealScout dark since 2026-09-18; CRMLS Matrix auto-email deactivated 2026-10-03); verify status/MLS before contact"
+2026-10-12,14052 Bexley St,Westminster,unverified,unverified (WebSearch),1549000,,none,63,WebSearch,"Gmail primary source empty; Redfin snapshot suggested new listing; verify DOM"
+2026-10-12,8131 Wenlock Cir,Huntington Beach,unverified,unverified (WebSearch),1625000,,none,61,WebSearch,"Single-story; address also appeared in RealScout email 2026-09-04 (~near walking trails); verify current status"
+2026-10-12,6222 Chickasaw Dr,Westminster,unverified,unverified (WebSearch),1295000,,none,61,WebSearch,"Gmail primary source empty; verify status/specs"
+2026-10-12,11205 Stonecress,Fountain Valley,unverified,unverified (WebSearch),1589000,,none,58,WebSearch,"Gmail primary source empty; verify lot size/HOA"
+2026-10-12,12954 Dahlia Ave,Garden Grove,unverified,unverified (WebSearch),1499000,,none,57,WebSearch,"Property type (SFR vs other) unverified; Redfin 'view homes' page"
+2026-10-12,17697 Santa Cristobal St,Fountain Valley,unverified,unverified (WebSearch),1419000,,none,57,WebSearch,"Gmail primary source empty; verify status/specs"
+2026-10-12,16221 Mount Baden Powell,Fountain Valley,unverified,unverified (WebSearch),1649000,,none,54,WebSearch,"Sqft unverified; verify all specs"
+2026-10-12,8631 Chapman Ave,Garden Grove,unverified,unverified (WebSearch),1299000,,none,50,WebSearch,"Beds/baths unverified; weak Garden Grove coverage this run"
+2026-10-12,19201 Sherborne Ln,Huntington Beach,unverified,unverified (WebSearch),1599999,,none,40,WebSearch,"Beds/baths unverified; verify all specs"
