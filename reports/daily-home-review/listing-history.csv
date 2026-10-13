@@ -1,1 +1,7 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-13,5282 Richmond Ave,Garden Grove,unverified,unverified-active,1250000,,,62,WebSearch,Gmail alert pipeline broken; unverified snippet only
+2026-10-13,9042 Marylee,Garden Grove,unverified,unverified-active,1150000,,,55,WebSearch,Gmail alert pipeline broken; unverified snippet only
+2026-10-13,9357 Warbler Ave,Fountain Valley,unverified,unverified-active,1399000,,,50,WebSearch,Gmail alert pipeline broken; unverified snippet only
+2026-10-13,9888 Hamilton,Fountain Valley,unverified,unverified-active,1610000,,,48,WebSearch,Gmail alert pipeline broken; no date on snippet
+2026-10-13,6602 Walt St,Westminster,unverified,likely-stale,1200000,,,35,WebSearch,MLS record snippet dated stale (last modified Apr 2026)
+2026-10-13,6951 Stanford Ave,Garden Grove,unverified,likely-stale,1199000,,,32,WebSearch,Aggregator snippet with May 2026 open house date; likely stale
