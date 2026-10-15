@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-15,9652 Duke Dr,Westminster,unverified,Active,1500000,,none,62,WebSearch (Coldwell Banker),Multigenerational angle; status/DOM unverified
+2026-10-15,10651 La Bahia Ave,Fountain Valley,unverified,New Listing,1200000,,none,59,WebSearch (Trulia),Flagged new at time of search; status/DOM unverified
+2026-10-15,10052 Larson Ave,Garden Grove,PW26141831,Active,1129999,,none,57,WebSearch (Coldwell Banker),Near Little Saigon value angle
+2026-10-15,14122 Uxbridge St,Westminster,unverified,Active,1359500,,none,55,WebSearch (Coldwell Banker),Value comparison angle
+2026-10-15,6812 Chapman,Garden Grove,unverified,Active,1259000,,none,53,WebSearch (Coldwell Banker),Near Little Saigon
+2026-10-15,6222 Chickasaw Dr,Westminster,unverified,Active,1295000,,none,53,WebSearch (Coldwell Banker),Near Little Saigon
+2026-10-15,1209 Huntington St,Huntington Beach,unverified,Active,1790000,1850000,price drop ~$60K,50,WebSearch (search snippet),Price-drop near the beach
+2026-10-15,17697 Santa Cristobal St,Fountain Valley,unverified,Active,1419000,,none,49,WebSearch (Coldwell Banker),Value comparison angle
+2026-10-15,5972 Meadowlark Dr,Huntington Beach,unverified,Active (unconfirmed),1199000,,none,44,WebSearch (search snippet),Originally 4bd reconfigured to 3bd; buyer-warning angle
+2026-10-15,12832 Adams St,Garden Grove,unverified,Status unconfirmed,1149000,,none,45,WebSearch (Homes.com),Near Little Saigon entry price point
