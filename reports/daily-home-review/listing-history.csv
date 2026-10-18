@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-18,9190 Poppy Cir,Westminster,unverified,unverified,1299900,,none,65,WebSearch,Redfin zip 92683 aggregate; no confirmed direct listing URL; status/DOM unverified
+2026-10-18,13141 Monroe St,Garden Grove,unverified,unverified,1599999,,none,61,WebSearch,Redfin zip 92841 aggregate; unverified property type (7bd/5ba unusual for SFR); no confirmed direct URL
+2026-10-18,5282 Richmond,Garden Grove,unverified,unverified,1250000,,none,59,WebSearch,https://www.weichert.com/137283108/; built 1964; status/DOM unverified
+2026-10-18,6072 Chinook Ave,Westminster,unverified,unverified,1199000,,none,58,WebSearch,Redfin zip 92683 aggregate; no confirmed direct listing URL
+2026-10-18,15151 Columbia Ln,Huntington Beach,unverified,unverified,1650000,,none,58,WebSearch,Homes.com under-$2M search; unverified property type; no direct URL captured
+2026-10-18,5781 Westmoreland Cir,Westminster,unverified,unverified,1150000,,none,57,WebSearch,Redfin zip 92683 aggregate; no confirmed direct listing URL
+2026-10-18,5062 Berkeley,Westminster,unverified,unverified,1399000,,none,56,WebSearch,Redfin zip 92683 aggregate; no confirmed direct listing URL
+2026-10-18,16791 Leafwood Cir,Huntington Beach,unverified,unverified,1269000,,none,55,WebSearch,Redfin cached snapshot; unverified property type; no direct URL captured
+2026-10-18,9331 La Cortinilla Ave,Fountain Valley,unverified,unverified,1400000,,none,51,WebSearch,Redfin zip 92708 aggregate; no confirmed direct listing URL
+2026-10-18,8822 Dudman,Garden Grove,unverified,unverified,1199888,,none,50,WebSearch,Nearby comp ref https://www.weichert.com/137270211/; no direct URL for Dudman itself
