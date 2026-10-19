@@ -1,1 +1,9 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-19,18441 Patterson Ln,Huntington Beach,unverified,Active (unverified),1799000,,none,74,WebSearch,"Top3 #1; status/year built/HOA unverified; price at top of range"
+2026-10-19,5282 Richmond Ave,Garden Grove,unverified,Active (unverified),1250000,,none,71,"Gmail/RealScout (stale 09/15) + WebSearch","Top3 #2; seen in RealScout 09/15 and current WebSearch; DOM unverified"
+2026-10-19,16327 San Gabriel Dr,Fountain Valley,unverified,Active (unverified - listed ~2026-05-16),1299999,,none,63,WebSearch,"Top3 #3; DOM ~5mo if still active is unusual, verify before contact"
+2026-10-19,7612 Appleby Rd,Huntington Beach,unverified,unverified,1499000,,none,60,WebSearch,"status/year built/HOA unverified"
+2026-10-19,7827 Orchid Dr,Huntington Beach,unverified,unverified,1450000,,none,58,WebSearch,"status/lot size unverified"
+2026-10-19,15792 Las Nubes St,Westminster,unverified,unverified,1389000,,none,57,WebSearch,"described as first on market in ~50 years, verify condition/status"
+2026-10-19,7252 Ellington Dr,Huntington Beach,unverified,unverified (open house tag),1669000,,none,55,WebSearch,"open house date unconfirmed"
+2026-10-19,7702 Quebec Dr,Huntington Beach,unverified,unverified,1299900,,none,52,WebSearch,"small sqft for price, compare comps"
