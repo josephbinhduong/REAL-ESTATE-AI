@@ -1,6 +1,6 @@
 # Sơ đồ tổ chức Team JBD
 
-*Phiên bản 1.2 – 22/10/2026 · Dùng chung cho cả team · Xem bản đầy đủ tại `team-operating-system.md`*
+*Phiên bản 1.3 – 22/10/2026 · Dùng chung cho cả team · Xem bản đầy đủ tại `team-operating-system.md`*
 
 > **Mục tiêu của team:** Mỗi khách hàng nhận cùng một chất lượng phục vụ, bất kể ai trong team đang làm việc với họ. Hệ thống làm công việc, mỗi người vận hành phần hệ thống của mình, Joseph cải tiến hệ thống.
 
@@ -12,8 +12,8 @@
 |---|---|---|---|
 | 1 | Joseph Binh Duong | Team Lead (licensed) | Toàn thời gian |
 | 2 | Đức Dương | Buyer agent chính (licensed) | Toàn thời gian |
-| 3 | Victoria Vo | Buyer agent (licensed) | Bán thời gian: 9:00 sáng – 2:00 chiều |
-| 4 | Long Do | Agent tập sự + nguồn lead (licensed) | Bán thời gian: 10:00 sáng – 12:00 trưa |
+| 3 | Victoria Vo | Buyer agent (licensed) | Ngày thường 9:00 sáng – 2:00 chiều · Thứ Bảy, Chủ nhật: open house |
+| 4 | Long Do | Agent tập sự + nguồn lead (licensed) | Ngày thường 10:00 sáng – 12:00 trưa · Thứ Bảy, Chủ nhật: open house |
 | 5 | Tiến Nguyen | Trợ lý văn phòng + ISA tập sự (licensed) | Toàn thời gian |
 | 6 | Ba Huy + Team Việt Nam (một nhóm) | Marketing: quay phim, edit, đăng YouTube, email marketing | — |
 | 7 | Andre | Transaction Coordinator (TC) | Giao dịch trong escrow |
@@ -82,15 +82,15 @@ Khi đủ 10 khách active, khách mua mới vào Nurture (Tiến giữ liên l�
 ### Victoria – Buyer agent bán thời gian
 
 - **Kết quả:** Phục vụ tốt một số khách giới hạn, **tối đa 2 khách active**.
-- **Giờ làm việc:** **9:00 sáng – 2:00 chiều.** Showing, gọi khách và họp chỉ xếp trong khung này.
-- **Ngoài giờ:** Sau 2:00 chiều hoặc cuối tuần, khách cần gấp → Đức đi thay, Victoria được báo trong nhóm chat. Nên chọn khách có lịch linh hoạt ban ngày (ví dụ: người làm ca, người về hưu, nhà đầu tư).
+- **Giờ làm việc:** Ngày thường **9:00 sáng – 2:00 chiều**; showing, gọi khách và họp xếp trong khung này. **Thứ Bảy, Chủ nhật:** host open house (xem mục 6.1).
+- **Ngoài giờ:** Sau 2:00 chiều ngày thường, khách cần gấp → Đức đi thay, Victoria được báo trong nhóm chat. Nên chọn khách có lịch linh hoạt ban ngày (ví dụ: người làm ca, người về hưu, nhà đầu tư).
 - **Chỉ số:** Khách active · Showing / tuần · Cập nhật Follow Up Boss đúng hạn.
 
 ### Long – Agent tập sự + nguồn lead
 
 - **Kết quả:** Đóng deal đầu tiên, đưa khách từ mạng lưới 2 nhà hàng vào hệ thống.
 - **Hiện tại:** Đang giữ 2–3 khách Joseph giao, 1 khách đang viết offer. **Tối đa 3 khách active** cho đến khi đóng 2 deal.
-- **Giờ làm việc:** **10:00 sáng – 12:00 trưa.** Ngoài khung giờ này, người kèm (Joseph hoặc Đức) trả lời listing agent thay Long.
+- **Giờ làm việc:** Ngày thường **10:00 sáng – 12:00 trưa**. **Thứ Bảy, Chủ nhật:** host open house (xem mục 6.1). Ngoài khung giờ này, người kèm (Joseph hoặc Đức) trả lời listing agent thay Long.
 - **Kèm cặp đến khi đóng deal đầu tiên:**
   - Joseph review **mọi offer** của Long trước khi gửi.
   - Long gọi listing agent **trước khi viết offer** để hỏi seller cần gì (giá, ngày close, rent-back, số offer đang có).
@@ -169,7 +169,9 @@ Khách B, C → Tiến đưa vào danh sách nurture và gọi lại theo lịch
 |---|---|---|
 | Mỗi ngày | Báo số lead mới và lead nóng trong nhóm chat | Tiến |
 | Thứ Hai 10:00–10:30 sáng | Họp team (khung giờ cả team đều có mặt): khách active, offer đang chạy, escrow, việc tuần này | Cả team, Joseph chủ trì |
-| Chủ nhật | Xác nhận ngày làm việc tuần sau (giờ cố định: Victoria 9:00–14:00, Long 10:00–12:00) | Victoria, Long |
+| Thứ Tư | Chốt nhà và người host open house cuối tuần | Joseph, Tiến |
+| Thứ Bảy, Chủ nhật | Open house | Victoria, Long |
+| Chủ nhật tối | Nhập toàn bộ lead open house vào Follow Up Boss | Victoria, Long |
 | Thứ Sáu trước 5 giờ chiều | Cập nhật Follow Up Boss | Đức, Victoria, Long |
 | Thứ Sáu 5 giờ chiều | Báo Joseph ai chưa cập nhật | Tiến |
 | Thứ Sáu | Cập nhật khách đang trong escrow | Andre |
@@ -179,6 +181,34 @@ Khách B, C → Tiến đưa vào danh sách nurture và gọi lại theo lịch
 2. Khách hàng luôn biết bước tiếp theo.
 3. Mang vấn đề đến thì mang theo đề xuất.
 4. Nói thật và nói sớm, kể cả tin xấu.
+
+---
+
+### 6.1. Open house cuối tuần
+
+**Mục tiêu:** Mỗi cuối tuần có ít nhất 1 open house, mỗi buổi thu về lead thật cho team. Đây cũng là cách nhanh nhất để Victoria và Long có thêm khách riêng.
+
+**Chọn nhà:**
+1. Listing của Joseph (ưu tiên).
+2. Listing của agent khác trong brokerage, **có sự đồng ý bằng văn bản** của listing agent và seller.
+3. Ưu tiên nhà ở khu khách Việt quan tâm (Garden Grove, Westminster, Fountain Valley), giá phù hợp first-time buyer.
+
+**Phân công:** Victoria và Long mỗi người host 1 buổi/ngày, hoặc host chung 1 buổi để Long học từ Victoria. Giờ thường gặp: 1:00–4:00 chiều.
+
+**Checklist cho người host:**
+- [ ] Thứ Năm: Ba Huy đăng bài / video ngắn giới thiệu open house; Tiến gửi text cho khách Nurture ở khu đó.
+- [ ] Đặt bảng chỉ đường và kiểm tra nhà 30 phút trước giờ mở.
+- [ ] Sign-in bằng QR code hoặc form (tên, số điện thoại, đã có agent chưa, đã có pre-approval chưa).
+- [ ] Có sẵn tài liệu Việt/Anh: thông tin nhà, quy trình mua nhà, danh sách lender.
+- [ ] Tối Chủ nhật: nhập mọi lead vào Follow Up Boss, ghi nguồn "Open house – [địa chỉ]".
+- [ ] Thứ Hai: text cảm ơn mọi khách đã ghé; báo kết quả trong họp team.
+
+**Quy tắc lead open house:**
+- Khách mới (chưa có trong Follow Up Boss) → thuộc người host, tính vào giới hạn khách active của người đó.
+- Khách đã có trong Follow Up Boss → giữ nguyên agent đang phụ trách.
+- Người host đã đủ khách active → chuyển Đức, hoặc Tiến đưa vào Nurture.
+
+**Chỉ số:** Số khách ghé · Số lead mới · Số buyer consultation đặt được từ open house.
 
 ---
 
