@@ -1,6 +1,6 @@
 # Sơ đồ tổ chức Team JBD
 
-*Phiên bản 1.1 – 22/10/2026 · Dùng chung cho cả team · Xem bản đầy đủ tại `team-operating-system.md`*
+*Phiên bản 1.2 – 22/10/2026 · Dùng chung cho cả team · Xem bản đầy đủ tại `team-operating-system.md`*
 
 > **Mục tiêu của team:** Mỗi khách hàng nhận cùng một chất lượng phục vụ, bất kể ai trong team đang làm việc với họ. Hệ thống làm công việc, mỗi người vận hành phần hệ thống của mình, Joseph cải tiến hệ thống.
 
@@ -56,9 +56,10 @@
 |---|---|
 | Đức | 5 |
 | Victoria | 2 |
-| **Tổng** | **7** |
+| Long (có người kèm) | 3 |
+| **Tổng** | **10** |
 
-Khi đủ 7 khách active, khách mua mới vào Nurture (Tiến giữ liên lạc) hoặc Joseph tự nhận. Nếu tình trạng này kéo dài, đó là tín hiệu cần tuyển thêm buyer agent hoặc đẩy nhanh lộ trình của Long.
+Khi đủ 10 khách active, khách mua mới vào Nurture (Tiến giữ liên lạc) hoặc Joseph tự nhận. Nếu tình trạng này kéo dài, đó là tín hiệu cần tuyển thêm buyer agent hoặc đẩy nhanh lộ trình của Long.
 
 ---
 
@@ -87,11 +88,17 @@ Khi đủ 7 khách active, khách mua mới vào Nurture (Tiến giữ liên l�
 
 ### Long – Agent tập sự + nguồn lead
 
-- **Kết quả:** Đưa khách từ mạng lưới 2 nhà hàng vào hệ thống, học nghề qua đi kèm.
-- **Giờ làm việc:** **10:00 sáng – 12:00 trưa.** Lịch đi kèm xếp trong khung này. Victoria cũng có mặt trong khung giờ này, nên ưu tiên cho Long đi kèm showing của Victoria.
-- **Lộ trình:** Đi kèm **3 buổi showing + 1 buổi buyer consultation** → Joseph đánh giá → nhận khách riêng đầu tiên (có người kèm khi viết offer).
+- **Kết quả:** Đóng deal đầu tiên, đưa khách từ mạng lưới 2 nhà hàng vào hệ thống.
+- **Hiện tại:** Đang giữ 2–3 khách Joseph giao, 1 khách đang viết offer. **Tối đa 3 khách active** cho đến khi đóng 2 deal.
+- **Giờ làm việc:** **10:00 sáng – 12:00 trưa.** Ngoài khung giờ này, người kèm (Joseph hoặc Đức) trả lời listing agent thay Long.
+- **Kèm cặp đến khi đóng deal đầu tiên:**
+  - Joseph review **mọi offer** của Long trước khi gửi.
+  - Long gọi listing agent **trước khi viết offer** để hỏi seller cần gì (giá, ngày close, rent-back, số offer đang có).
+  - Mỗi lần offer bị hụt: gọi listing agent hỏi lý do, ghi vào Follow Up Boss, báo trong họp thứ Hai.
+  - Người kèm có mặt (gọi điện) khi thương lượng counter offer.
+- **Lộ trình:** Đóng deal đầu tiên có người kèm → đóng deal thứ 2 tự viết offer, Joseph chỉ review → nhận khách độc lập.
 - **Quy tắc lead:** Mọi khách Long giới thiệu phải được nhập Follow Up Boss **trong 24 giờ**, ghi nguồn "Long – nhà hàng".
-- **Chỉ số:** Lead giới thiệu / tháng · Số buổi đi kèm đã hoàn thành.
+- **Chỉ số:** Offer viết / tháng · Offer accepted · Lead giới thiệu / tháng.
 
 ### Tiến – Trợ lý văn phòng + ISA tập sự
 
@@ -133,7 +140,7 @@ Khách nóng (A) → Joseph tư vấn
    ↓                                ↓
 Khách MUA                        Khách BÁN
 → giao Đức hoặc Victoria         → Joseph làm listing
-→ Long đi kèm (khi phù hợp)
+→ hoặc Long (có người kèm, tối đa 3 khách)
    ↓                                ↓
 Offer được chấp nhận → Andre nhận escrow → Closing
    ↓
