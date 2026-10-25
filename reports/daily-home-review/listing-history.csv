@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-25,14181 Roxanne Dr,Westminster,PW26096877,Active,1375000,,none,76,WebSearch,"Permitted 2022 ADU; two units rented ~$6150/mo combined; bed/bath unverified"
+2026-10-25,13192 Vener Dr,Garden Grove,PW26159757,Active,1375000,,none,74,WebSearch,"0.2841 ac lot; remodeled ~2yrs ago per listing; ADU/JADU potential unverified; tenant-occupied $4500/mo"
+2026-10-25,9552 Dewey Dr,Garden Grove,PW26088845,Active,1299000,,none,72,WebSearch,"Remodeled kitchen w/ permits; pool/spa; bath count conflicting (3 vs 4) across sources"
+2026-10-25,16050 Shasta St,Fountain Valley,CROC26038605,Active,1400000,,none,72,WebSearch,"Snapshot from May 2026 - highest staleness risk; extensive remodel, solar, RV parking, 4th bed addition in progress"
+2026-10-25,6211 Mar Vista Dr,Huntington Beach,,Coming Soon,1160000,,none,69,WebSearch,"Freshest data point found 2026-10-25 run; listed as Coming Soon as of 2026-10-10"
+2026-10-25,6772 Hazard Ave,Westminster,OC26139235,Active,1199900,,none,68,WebSearch,"Remodeled kitchen/bath; no HOA; DOM conflicting (8 vs 30 days)"
+2026-10-25,16327 San Gabriel St,Fountain Valley,,Active,1399888,,none,67,WebSearch,"Single-story; remodeled garage with 220V EV outlet; status/DOM not found"
+2026-10-25,5141 Churchill Ave,Westminster,CROC26121006,Active,1350000,,none,67,WebSearch,"Seller claims $300k+ in upgrades (unverified); pool/spa; snapshot June 2026"
+2026-10-25,12071 Reva Dr,Garden Grove,,Active,1250000,,none,61,WebSearch,"Price ($1.175M vs $1.25M) and bath count conflicting across sources - verify before quoting"
+2026-10-25,17081 Kampen Lane,Huntington Beach,OC26112451,Active,1200999,,none,59,WebSearch,"Remodeled bathrooms, newer windows; lot size unverified; DOM 17 days at stale snapshot"
