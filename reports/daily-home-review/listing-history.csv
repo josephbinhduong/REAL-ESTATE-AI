@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-27,18474 Tamarind St,Fountain Valley,unverified,Active (assumed),1339000,,none,81,Gmail/CRMLS,"Agent's top pick for client; single story, repipe, new AC, fresh paint, covered patio + fruit trees; bed/bath/sqft/lot unverified"
+2026-10-27,16842 Ross Ln,Huntington Beach,unverified,Active (assumed),1300000,,none,74,Gmail/CRMLS,"Kitchen + 2 baths remodeled, walk-in shower primary, new roof; bed/bath/sqft/lot unverified"
+2026-10-27,10591 Henderson Ave,Garden Grove,unverified,Active (assumed),1250000,,none,79,Gmail/CRMLS,"Single story, new flooring 2025, near park, near Little Saigon, no Mello-Roos; bed/bath/sqft/lot unverified"
+2026-10-27,8561 Donald Circle,Huntington Beach,unverified,Active (assumed),1399900,,none,72,Gmail/CRMLS,"Single story, full remodel, quiet cul-de-sac; bed/bath/sqft/lot unverified"
+2026-10-27,8061 19th St,Westminster,unverified,Active (unverified),1185000,~1195000,price drop ~$10K,66,WebSearch/Zillow,"3bd/2ba 1922sqft; undated snapshot, verify on Zillow before contact"
+2026-10-27,11392 Biscayne Blvd,Garden Grove,unverified,Active (unverified),1215000,,none,65,WebSearch/Trulia,"4bd/2ba 2147sqft; undated snapshot, verify before contact"
+2026-10-27,6221 Choctaw Dr,Westminster,unverified,Active (unverified),1179000,,none,61,WebSearch/Coldwell Banker,"4bd/2ba 1666sqft; previously referenced in an internal comp email, confirm currently active before contact"
+2026-10-27,9921 Garrett Cir,Huntington Beach,unverified,Active (unverified),1400000,,none,60,WebSearch/Coldwell Banker,"4bd/2ba 1460sqft; undated snapshot, verify before contact"
+2026-10-27,17781 Flintstone Lane,Huntington Beach,unverified,Active (unverified),1398000,,none,59,WebSearch/Coldwell Banker,"3bd/2ba 1581sqft; undated snapshot, verify before contact"
+2026-10-27,8981 Blackheath Cir,Westminster,unverified,Active (unverified),1395000,,none,52,WebSearch/Coldwell Banker,"Missing bed/bath/sqft/lot entirely; undated snapshot, verify before contact"
