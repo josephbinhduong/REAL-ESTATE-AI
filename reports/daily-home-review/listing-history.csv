@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-30,8872 Montrose Ave,Westminster,unverified,Active (unverified),1495000,,none,71,WebSearch,"Gmail/RealScout and CRMLS Matrix alerts not received in 6+ weeks (CRMLS auto-email deactivated 2026-08-20; RealScout stopped 2026-09-16) - fell back to WebSearch; verify status before contact"
+2026-10-30,13530 Ethan St,Garden Grove,PW26122250,Active (unverified),1050000,,none,65,WebSearch,"Fallback due to dead Gmail feeds; built 2011; verify status before contact"
+2026-10-30,11356 Stonecress,Fountain Valley,PW26162167,Active (unverified),1650000,,none,60,WebSearch,"Fallback due to dead Gmail feeds; ADU/lot potential unverified; verify status before contact"
+2026-10-30,5832 Camphor Ave,Westminster,OC26063230,Active (unverified),1099000,,none,58,WebSearch,"Fallback due to dead Gmail feeds; verify status before contact"
+2026-10-30,16327 San Gabriel,Fountain Valley,PW26105115,Active (unverified),1299999,,none,55,WebSearch,"Fallback due to dead Gmail feeds; verify status before contact"
+2026-10-30,7814 Orchid,Huntington Beach,unverified,Active (unverified),1495000,,none,57,WebSearch,"Fallback due to dead Gmail feeds; verify status before contact"
+2026-10-30,10212 Pua Dr,Huntington Beach,unverified,Active (unverified),1550000,,none,54,WebSearch,"Fallback due to dead Gmail feeds; verify status before contact"
+2026-10-30,12636 Saint Mark,Garden Grove,PW26159015,Active (unverified),1200000,,none,52,WebSearch,"Fallback due to dead Gmail feeds; bath count unverified; verify status before contact"
+2026-10-30,12091 Blackmer,Garden Grove,OC26160949,Active (unverified),1339000,,none,50,WebSearch,"Fallback due to dead Gmail feeds; bath count unverified; verify status before contact"
+2026-10-30,6772 Hazard Ave,Westminster,unverified,Active (unverified),1199900,,none,48,WebSearch,"Fallback due to dead Gmail feeds; bed/bath/status unconfirmed; verify before contact"
