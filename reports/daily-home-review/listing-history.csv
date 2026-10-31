@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-10-31,16102 Nelson St,Westminster,unverified,Active (unverified),1539999,,none,72,WebSearch,"Gmail feeds dead (RealScout since 09-16, CRMLS deactivated 10-03); redfin/realtor.com unreachable for direct verification"
+2026-10-31,14871 Booney Ave,Westminster,unverified,Active (unverified),1275000,,none,70,WebSearch,"3 days on site per snippet; unverified"
+2026-10-31,19322 Archfield Ln,Huntington Beach,unverified,Active (unverified),1565000,,none,68,WebSearch,"unverified"
+2026-10-31,11735 Quartz,Fountain Valley,unverified,Active (unverified),1699000,,none,65,WebSearch,"18 days on site per snippet; unverified"
+2026-10-31,18009 Hazel Court,Fountain Valley,unverified,Active (unverified),1495000,,none,63,WebSearch,"Oakpointe community; likely HOA unverified"
+2026-10-31,7622 Don Drive,Huntington Beach,unverified,Active (unverified),1199999,,none,60,WebSearch,"marked New in snippet; unverified; sqft below 1500 preference"
+2026-10-31,9901 Cedar Ave,Garden Grove,unverified,Active (unverified),1000000,,none,60,WebSearch,"unverified"
+2026-10-31,5781 Westmoreland Cir,Westminster,unverified,Active (unverified),1150000,,none,58,WebSearch,"23 days on site per snippet; unverified"
+2026-10-31,10900 San Leon Ave,Fountain Valley,unverified,Active (unverified),1575000,,none,55,WebSearch,"60 days on site per snippet - may have sold/pending since; unverified"
+2026-10-31,10642 Beacon Ave,Garden Grove,unverified,Active (unverified),1199000,,none,52,WebSearch,"least complete data; beds only confirmed"
