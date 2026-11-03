@@ -1,1 +1,2 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-11-03,,,,,,,,,none,"No properties reported. RealScout alerts silent since 2026-09-16; CRMLS 'mỗi sáng' auto-email deactivated 2026-10-03 (welcome link never clicked). WebSearch fallback produced stale/sold/mis-typed leads only (see reports/daily-home-review/2026-11-03.md); none met verification bar for a scored shortlist."
