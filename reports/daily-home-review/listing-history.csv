@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-11-06,15402 Balboa St,Westminster,unverified,Active (unconfirmed today),1519000,,new,63,WebSearch,Gmail/RealScout had zero alerts - MLS feed down since mid-Sept; status/specs not confirmed today
+2026-11-06,12892 Adelle St,Garden Grove,unverified,Active (unconfirmed today),1500000,,new,63,WebSearch,Homes.com mixed feed source; no direct listing URL captured; verify before contact
+2026-11-06,10276 Falcon,Fountain Valley,unverified,Active (unconfirmed today),1330000,,new,60,WebSearch,Source explicitly tagged Active/SFR; still re-verify today
+2026-11-06,16181 Quartz St,Westminster,unverified,Active (unconfirmed today),1300000,,new,61,WebSearch,Homes.com mixed feed source; no direct listing URL captured
+2026-11-06,5141 Churchill Ave,Westminster,unverified,Active (unconfirmed today),1350000,,new,61,WebSearch,Lot ~0.145 acre per source; ADU potential NOT verified (zoning/setbacks/permits unchecked)
+2026-11-06,13530 Ethan,Garden Grove,unverified,Active (unconfirmed today),1050000,,new,60,WebSearch,Built 2011; HOA $150/mo per source - reverify current
+2026-11-06,10212 Pua Drive,Huntington Beach,unverified,Active (unconfirmed today),1550000,,new,59,WebSearch,Inland HB (92646) not beachfront; no direct listing URL captured
+2026-11-06,215 Knoxville Ave,Huntington Beach,unverified,Active (unconfirmed today),1789000,,new,58,WebSearch,Near top of price ceiling; source Red Wagon Team IDX
+2026-11-06,5602 Placer Ave,Westminster,unverified,Active (unconfirmed today),1379990,,new,58,WebSearch,Homes.com mixed feed source; no direct listing URL captured
+2026-11-06,16846 Mount Fletcher,Fountain Valley,unverified,Active (unconfirmed today),1500000,,new,52,WebSearch,Listing snapshot looked dated (~April 2026) - high risk of stale/sold/price-changed
