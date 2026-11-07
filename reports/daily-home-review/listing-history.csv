@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-11-07,"8821 Tamarisk",Westminster,PW26161676,Active,1528800,,,74,WebSearch,"Top 3; 5bd/3ba per Coldwell Banker snapshot; unverified sqft/lot; listing dated Jul 2026 - confirm still live"
+2026-11-07,"13611 Cypress St",Garden Grove,PW24135990,Active,1450000,,,73,WebSearch,"Top 3; 4bd/3ba 2171sqft lot ~0.26ac; 2 extra units unverified permit status; MLS prefix 24 - confirm not stale"
+2026-11-07,"8712 Mossford Dr",Huntington Beach,OC26210683,Active,1649000,1699000,-50000,73,WebSearch,"Top 3; 5bd/3ba 1898sqft; price drop $50k/2.94%"
+2026-11-07,"13250 Sunny Sage Ln",Garden Grove,OC24041211,Active,1095000,,,67,WebSearch,"First Team in-house listing; 3bd/3ba 2129sqft; DOM 10 per undated listing page"
+2026-11-07,"10618 El Toro Ave",Fountain Valley,OC26121492,Active,1799000,,,66,WebSearch,"4bd/4ba 2281sqft lot 5502sqft; HOA $80/mo reported"
+2026-11-07,"1112 Delaware St",Huntington Beach,,Active,1699000,,,64,WebSearch,"3bd/2ba 2167sqft; 1 day on site; type (SFR vs attached) unverified"
+2026-11-07,"9301 Neolani",Huntington Beach,,Active,1599000,,,64,WebSearch,"4bd/2ba 1880sqft; 7 days on site; full address not confirmed"
+2026-11-07,"9031 Washington Ave",Westminster,OC26032651,Active,1220000,1325000,-105000,62,WebSearch,"3bd/2ba 1099sqft lot 7200sqft; price conflicts across sources ($1.22M-$1.35M); listing received Feb 2026 - confirm not stale"
+2026-11-07,"17230 San Lorenzo Cir",Fountain Valley,PW26070010,Active,1604000,,,58,WebSearch,"4bd/3ba 2288sqft lot 5400sqft; DOM 50; one snapshot referenced auction sale - verify before outreach"
+2026-11-07,"13283 Michael Rainford Cir",Garden Grove,,Coming Soon,1599000,,,54,WebSearch,"Coming Soon; bed/bath/sqft/type fully unverified"
