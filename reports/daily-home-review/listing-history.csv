@@ -1,1 +1,11 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-11-08,17641 Santa Maria,Fountain Valley,unverified,unverified,1739999,,,68,WebSearch,"Gmail primary source stale since ~2026-09; MLSListings snapshot, undated, needs re-verification"
+2026-11-08,8872 Montrose Ave,Westminster,unverified,unverified,1495000,,,67,WebSearch,"Gmail primary source stale since ~2026-09; homes.com snapshot, undated, needs re-verification"
+2026-11-08,11788 Purslane Cir,Fountain Valley,unverified,Coming Soon (unverified),1549000,,,65,WebSearch,"Gmail primary source stale since ~2026-09; homes.com snapshot, undated, needs re-verification"
+2026-11-08,12925 Dahlia Ave,Garden Grove,unverified,unverified,1650000,,,64,WebSearch,"Gmail primary source stale since ~2026-09; MLSListings snapshot, undated, needs re-verification"
+2026-11-08,16181 Quartz St,Westminster,unverified,unverified,1300000,,,63,WebSearch,"Gmail primary source stale since ~2026-09; homes.com snapshot, undated, needs re-verification"
+2026-11-08,19322 Archfield Ln,Huntington Beach,unverified,unverified,1565000,,,62,WebSearch,"Gmail primary source stale since ~2026-09; homes.com snapshot, undated, low confidence on address/price pairing"
+2026-11-08,5652 Amador Ave,Westminster,unverified,unverified,1299000,,,61,WebSearch,"Gmail primary source stale since ~2026-09; homes.com snapshot, undated, needs re-verification"
+2026-11-08,18009 Hazel Ct,Fountain Valley,unverified,unverified,1495000,,,58,WebSearch,"Gmail primary source stale since ~2026-09; homes.com snapshot, undated, needs re-verification"
+2026-11-08,5302 Trinette Ave,Garden Grove,unverified,unverified,1098000,,,57,WebSearch,"ADU on lot per snippet, permit status NOT verified; homes.com snapshot, undated"
+2026-11-08,7622 Don Drive,Huntington Beach,unverified,unverified,1199999,,,55,WebSearch,"Gmail primary source stale since ~2026-09; BHHS snippet, undated, needs re-verification"
