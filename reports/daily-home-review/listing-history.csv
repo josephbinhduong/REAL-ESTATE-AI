@@ -1,1 +1,10 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-11-10,11222 Magnolia St,Garden Grove,unverified,unverified (WebSearch fallback - confirm on MLS),1268700,,,55,WebSearch,"Gmail/RealScout and Gmail/CRMLS alerts both inactive since Sep/Oct 2026; sourced from Homes.com snippet via WebSearch fallback. Beds/baths/sqft/lot unverified."
+2026-11-10,10642 Beacon Ave,Garden Grove,unverified,unverified (WebSearch fallback - confirm on MLS),1199000,,,50,WebSearch,"WebSearch fallback (Homes.com snippet). Sqft/lot unverified."
+2026-11-10,5602 Placer Ave,Westminster,unverified,unverified (WebSearch fallback - confirm on MLS),1379990,,,55,WebSearch,"WebSearch fallback (Homes.com snippet). 4bd/3ba/2100sqft reported; lot/HOA/year built unverified."
+2026-11-10,5652 Amador Ave,Westminster,unverified,unverified (WebSearch fallback - confirm on MLS),1299000,,,40,WebSearch,"WebSearch fallback. Beds/baths/sqft/lot unverified - too little data to score confidently."
+2026-11-10,17230 San Mateo St,Fountain Valley,unverified,unverified (WebSearch fallback - confirm on MLS),1595000,,,55,WebSearch,"WebSearch fallback (Redfin snippet). 4bd/2.5ba/2042sqft reported; lot/condition unverified."
+2026-11-10,18828 Santa Mariana St,Fountain Valley,unverified,unverified (WebSearch fallback - confirm on MLS),1600000,,,50,WebSearch,"WebSearch fallback (third-party brokerage site). 4bd/3ba/2162sqft reported; lot/condition unverified."
+2026-11-10,105 Crow Ln,Fountain Valley,unverified,unverified (WebSearch fallback - confirm on MLS),1800000,,,45,WebSearch,"WebSearch fallback (Redfin snippet). 8bd/4ba/3901sqft reported - unusually large; verify single legal SFR unit before treating as standard SFR."
+2026-11-10,16842 Lucia Ln,Huntington Beach,unverified,unverified (WebSearch fallback - confirm on MLS),1599900,,,50,WebSearch,"WebSearch fallback (Homes.com snippet). 4bd/3ba reported; sqft/lot unverified."
+2026-11-10,7622 Don Drive,Huntington Beach,unverified,unverified (WebSearch fallback - confirm on MLS),1199999,,,40,WebSearch,"WebSearch fallback. Beds/baths/sqft/lot unverified - too little data to score confidently."
