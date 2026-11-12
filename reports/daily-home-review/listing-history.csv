@@ -1,1 +1,10 @@
 date_reported,address,city,mls_number,status,list_price,previous_price,price_change,score,source,notes
+2026-11-12,9190 Poppy Cir,Westminster,unverified,Active,1299900,unverified,Price Drop (~-$100K per snippet),68,WebSearch,"Top 3; 6bd multigen angle; needs live status/bath/lot check"
+2026-11-12,5602 Placer Ave,Westminster,unverified,Active,1379990,,,66,WebSearch,"Top 3; single-story, Little Saigon multigen angle; needs live status/lot check"
+2026-11-12,13151 Stanrich,Garden Grove,unverified,Active,1299999,,,64,WebSearch,"Top 3; single-story w/ pool; beds/baths/sqft/lot unverified"
+2026-11-12,16511 Newland St,Huntington Beach,unverified,Active (conflicting DOM),1299000,1375000,Price reduced ~$76K per tip,63,"Gmail tip (unverified) + WebSearch","Watch item; Nov 10 motivated-seller marketing email; price/DOM history conflicts, verify before contact"
+2026-11-12,5352 Duncannon,Westminster,unverified,Active,1265000,,Huge Price Drop per listing copy,62,WebSearch,"Needs cosmetic work per listing copy; remodel-surprise angle"
+2026-11-12,12892 Village Rd,Garden Grove,PW26135239,Active (stale snapshot),1249999,,,62,WebSearch,"8515 sqft lot (unverified-fresh); ADU angle unverified; snapshot from June 2026"
+2026-11-12,11788 Purslane Cir,Fountain Valley,CROC26067911,Active,1599000,1549000,+$50K price increase,62,WebSearch,"Most internally consistent FV candidate; 7249 sqft lot"
+2026-11-12,11841 Debbie Ln,Garden Grove,IV25089996,Active,1298888,,,54,WebSearch,"Built 1956; backup candidate"
+2026-11-12,1813 Huntington St,Huntington Beach,unverified,Active (unconfirmed),1575000,,,47,WebSearch,"Lowest confidence; status not confirmed in snippet"
